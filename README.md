@@ -1,3 +1,3 @@
 # QuizAppUsingKivy
-By IG Tech Team
-Watch full video on my channel
+By IG Tech Team<br>
+Watch full video in my channel
